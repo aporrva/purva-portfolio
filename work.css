@@ -1,0 +1,70 @@
+body{
+   width: 1152; 
+   height: 1534;
+
+
+}
+.type1{
+    width: 156px;
+    height: 160px;
+    font: bold;
+    font-size: 44px;
+    margin-top: 160px;
+    margin-left: 235px;
+}
+#imga{
+    width: 246px;
+    height: 180px;
+    
+    
+}
+.col{
+    display: flex;
+
+}
+.type2{
+    width: 246px;
+    height: 180px;
+    margin-top: 25px;
+    margin-left: 235px;
+    
+
+}
+.box{
+    margin-left: 18px;
+
+}
+.type3{
+    display: inline-block;
+    margin-left: 18px;
+    width: 304px;
+    height: 44px;
+    font-size: 30px;
+    font: bold;
+}
+.type4{
+    width: 42px;
+    height: 60px;
+    font-size: 18px;
+    margin-left: 18px;
+    display: flex;
+    justify-content: left;
+    
+
+}
+.type5{
+    width: 418px;
+    height: 93px;
+    font-size: 16px;
+    margin-left: 18px;
+
+}
+.dash{
+    margin-left: 18px;
+    color: lightcoral;
+}
+.year{
+    background-color: black;
+    color: lavender;
+    
+}

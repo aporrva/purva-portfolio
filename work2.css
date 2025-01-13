@@ -1,0 +1,121 @@
+body{
+    width: 1152px;
+    height: 2283px;
+}
+.type1{
+    width: 506px;
+    height: 100px;
+    margin-top: 135px;
+    margin-left: 235px;
+    font-size: 34px;
+    font: bold;
+    
+}
+.one{
+    width: 42px;
+    height: 60px;
+    margin-top: 27px;
+    margin-left: 235px;
+    font-size: 18px;
+    display: inline;
+    
+}
+.two{
+    width: 374px;
+    height: 34px;
+    margin-top: 43px;
+    margin-left: 27px;
+    font-size: 20px;
+    display: inline;
+}
+.type3{
+    width: 681px;
+    height: 44px;
+    margin-top: 123px;
+    margin-left: 235px;
+    font-size: 16px;
+}
+.imga{
+    width: 681px;
+    height: 460px;
+}
+.type4{
+    width: 681px;
+    height: 460px;
+    margin-top: 46px;
+    margin-left: 235px;
+    
+}
+.type5{
+    width: 506px;
+    height: 45px;
+    margin-top: 54px;
+    margin-left: 239px;
+    font-size: 30px;
+}  
+.type6{
+    width: 506px;
+    height: 82px;
+    margin-top: 0px;
+    margin-left: 239px;
+    font-size: 24px;
+}
+.type7{
+    width: 677px;
+    height: 48px;
+    margin-top: 0px;
+    margin-left: 239px;
+    font-size: 16px; 
+
+}
+.type7{
+    width: 681px;
+    height: 460px;
+    margin-top: 0px;
+    margin-left: 235px;
+}
+.type8{
+    width: 681px;
+    height: 460px;
+    margin-top: 30px;
+    margin-left: 235px;
+}
+.type9{
+    width: 681px;
+    height: 460px;
+    margin-top: 27px;
+    margin-left: 235px;
+}
+.type10{
+    width: 681px;
+    height: 460px;
+    margin-top: 27px;
+    margin-left: 235px;
+} 
+.rightop{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: ;
+}
+.no1{
+    width: 106px;
+    height: 43px;
+   font-size: 20px;
+    text-align: right;
+}
+.no2{
+    width: 106px;
+    height: 43px;
+   font-size: 20px;
+    text-align: right;
+    color: red;
+
+}
+.no3{
+    width: 106px;
+    height: 43px;
+   font-size: 20px;
+    text-align: right;
+    
+}

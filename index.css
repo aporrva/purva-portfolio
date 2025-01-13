@@ -1,0 +1,76 @@
+body{
+    background-color: whitesmoke;
+    width: 1152px;
+    height: 2041px;
+
+}
+.rightop{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
+.no1{
+    width: 106px;
+    height: 43px;
+   font-size: 20px;
+    text-align: right;
+}
+.no2{
+    width: 106px;
+    height: 43px;
+   font-size: 20px;
+    text-align: right;
+    
+
+}
+.no3{
+    width: 106px;
+    height: 43px;
+   font-size: 20px;
+    text-align: right;
+    
+}
+.type1{
+    margin-top: 223px;
+    margin-left: 148px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.one{
+    width: 506px;
+    height: 105px;
+    font: bold;
+    font-size: 44px;
+}
+.two{
+    width: 506px;
+    height: 105px;
+    
+    font-size: 16px;
+    margin-top: 38px;
+}
+.three{
+    width: 167px;
+    height: 21px;
+    
+    font-size: 20px;
+    margin-top: 48px;
+}
+.class1{
+    width: 565px;
+    height: 301px;
+
+}
+#imgaa{
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+
+}
+.class2{
+    width: 243px;
+    height: 243px;
+    
+}
